@@ -26,8 +26,6 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
 Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
-
-
 ## Database configuration
 
 In its default configuration, Petclinic uses an in-memory database (H2) which
@@ -131,7 +129,3 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 [spring-petclinic-graphql]: https://github.com/spring-petclinic/spring-petclinic-graphql
 [spring-petclinic-kotlin]: https://github.com/spring-petclinic/spring-petclinic-kotlin
 [spring-petclinic-rest]: https://github.com/spring-petclinic/spring-petclinic-rest
-
-
-
-
